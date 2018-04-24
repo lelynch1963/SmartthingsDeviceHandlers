@@ -1,3 +1,3 @@
-# hello-world
+# Smartthings Device Handlers
 
-I like Smartthings
+Device Handlers I have modified for personal use
